@@ -1,0 +1,19 @@
+
+----
+~~NOCACHE~~
+**Door43**
+
+  * [[ssk:home|Door43 (ssk)]]
+  * [[en:license|License]]
+
+**Downloads**
+
+All content for this namespace is available in the [[https://github.com/Door43/d43-ssk|d43-ssk repository]].  To download it as a zip file, click [[https://github.com/Door43/d43-ssk/archive/master.zip|d43-ssk.zip]]
+
+**Recent Changes**
+{{changes>ns = ssk}}
+
+**Language Information**
+
+[[http://www.ethnologue.com/language/ssk|Ethnologue data]]
+
